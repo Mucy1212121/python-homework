@@ -1,3 +1,2 @@
-# python-homework
-# python-homework
-# python-homework
+# python-programing
+# นายปิยะภัทร สีแสง 6812732138
